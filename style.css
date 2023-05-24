@@ -37,7 +37,7 @@ animation: animate 4s linear infinite;
 }
 .container i:nth-child(3){
     border-radius: 28% 72% 39% 61% / 92% 6% 94% 8%  ;
-    animation: animate2 2s linear infinite;
+    animation: animate2 10s linear infinite;
 }
 @keyframes animate {
     0% {
