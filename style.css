@@ -21,6 +21,16 @@ body {
     justify-content: center;
     align-items: center;
 }
+.container i {
+    position: absolute;
+    inset: 0;
+    border: 2px solid #fff;
+    transition: 0.5s;
+}
+.container:hover i {
+    border: 2px solid var(--clr);
+    filter: drop-shadow(0 0 20px var(--clr));
+}
 .container .login {
     position: absolute;
     width: 300px;
