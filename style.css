@@ -51,9 +51,10 @@ body {
     box-shadow: none;
     outline: none;
 }
-.container .login .inputBx .input[type="submit"]{
+
+.container .login .inputBx input[type="Submit"]{
     background: linear-gradient(45deg,#ff357a, #fff172);
     border: none;
     cursor: pointer;
-    
+
 }
