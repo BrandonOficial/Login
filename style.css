@@ -28,7 +28,7 @@ body {
     transition: 0.5s;
 }
 .container:hover i {
-    border: 2px solid var(--clr);
+    border: 6px solid var(--clr);
     filter: drop-shadow(0 0 20px var(--clr));
 }
 .container .login {
